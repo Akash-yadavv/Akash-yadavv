@@ -33,7 +33,7 @@ Currently, I am actively preparing for **Google Summer of Code (GSoC)**, focusin
 ---
 
 ### 📫 Let's Connect!
-* 📧 **Email:** ay7804059@gmail.com
+* 📧 **Email:** akash26ydv@gmail.com
 * 💼 **LinkedIn:** https://www.linkedin.com/in/akash-yadav-18526728a 
 
 ⭐️ *From predictive modeling to full-stack web development, I am always excited to tackle complex data problems.*
