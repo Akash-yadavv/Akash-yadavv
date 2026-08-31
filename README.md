@@ -1,10 +1,10 @@
-# Hi there, I'm Akash Yadav 👋
+il jyn ge# Hi there, I'm Akash Yadav 👋
 
 ### 🚀 Machine Learning Enthusiast | Data Engineer | Full-Stack Developer
 
 I am a passionate software developer and data enthusiast currently pursuing my B.Tech at **JC Bose University of Science and Technology, YMCA** (Class of 2027). I specialize in building intelligent, data-driven applications, from predictive machine learning models to real-time web dashboards. 
 
-Currently, I am actively preparing for **Google Summer of Code (GSoC)**, focusing on organizations that align with my interests in Data Analytics and Data Engineering.
+
 
 ---
 
